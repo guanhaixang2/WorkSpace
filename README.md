@@ -1,4 +1,4 @@
 WorkSpace
 =========
 
-This is my WorkSpace
+This is my Git WorkSpace
